@@ -8,7 +8,7 @@ This project is a based on Flutter with API Integretd.
 # How to Run on MacOs
 Open this file on any IDE such as VScode and etc. You have to debug this code and select Emulator/Simulator for running applications on MacOs. it would open an IOS Simulator. 
 
-# How to run on Windows os.
+# How to run on Windows Os.
 You can directly run this application on Android Studio with Android Emulator or Any Other IDE.
 
 # Demonstration Images -
