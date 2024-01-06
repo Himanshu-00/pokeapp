@@ -1,16 +1,17 @@
-# pokeapp
+# PokeApp
 
-A new Flutter project.
+A new Flutter project developed by Himanshu.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a based on Flutter with API Integretd.
 
-A few resources to get you started if this is your first Flutter project:
+# How to Run on MacOs
+Open this file on any IDE such as VScode and etc. You have to debug this code and select Emulator/Simulator for running applications on MacOs. it would open an IOS Simulator. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# How to run on Windows os.
+You can directly run this application on Android Studio with Android Emulator or Any Other IDE.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Demonstration Images -
+
+ <img width="517" alt="Screenshot 2024-01-06 at 17 08 38" src="https://github.com/Himanshu-00/pokeapp/assets/128510994/21bc648f-5fe1-4c69-bd56-2123b72471dc"> <img width="425" alt="Screenshot 2024-01-06 at 17 09 14" src="https://github.com/Himanshu-00/pokeapp/assets/128510994/05be824f-0410-476a-8032-e7c76007b654">
+
